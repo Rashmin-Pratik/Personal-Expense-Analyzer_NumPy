@@ -98,4 +98,4 @@ Released under the [MIT License](LICENSE).
 
 ## 👤 Author
 
-**Your Name** · [GitHub](https://github.com/<your-username>)
+Rashmin Pratik Deb · [GitHub](https://github.com/Rashmin-Pratik)
